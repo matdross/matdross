@@ -157,6 +157,14 @@
       "url": "Matdross.Gui.styles.css"
     },
     {
+      "hash": "sha256-8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=",
+      "url": ".nojekyll"
+    },
+    {
+      "hash": "sha256-q6LuXL6PzxD0kbE2HBLTfR5ZSg0WbRRRrJXDla8OahE=",
+      "url": "404.html"
+    },
+    {
       "hash": "sha256-kfXT+\/7PwnK7UBTMq8\/AX20+soj7u1sV\/U1lCtnmSZI=",
       "url": "css\/app.css"
     },
@@ -217,7 +225,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-gYwyZpU6luHEGTaxn4SA1tCIED4UYR2ahJ\/q19tx0ks=",
+      "hash": "sha256-WEA6dU6Ab7Sb7dPLhKL1Co\/xElQVlKq\/mZasBOQBC2k=",
       "url": "index.html"
     },
     {
@@ -229,5 +237,5 @@
       "url": "sample-data\/weather.json"
     }
   ],
-  "version": "1rWkWSI6"
+  "version": "Rbd2orb+"
 };
