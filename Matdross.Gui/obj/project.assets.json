@@ -1769,11 +1769,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mathew\\source\\repos\\Matdross\\Matdross.Gui\\Matdross.Gui.csproj",
+      "projectUniqueName": "C:\\Users\\Mathew\\Source\\Repos\\matdross\\Matdross.Gui\\Matdross.Gui.csproj",
       "projectName": "Matdross.Gui",
-      "projectPath": "C:\\Users\\Mathew\\source\\repos\\Matdross\\Matdross.Gui\\Matdross.Gui.csproj",
+      "projectPath": "C:\\Users\\Mathew\\Source\\Repos\\matdross\\Matdross.Gui\\Matdross.Gui.csproj",
       "packagesPath": "C:\\Users\\Mathew\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mathew\\source\\repos\\Matdross\\Matdross.Gui\\obj\\",
+      "outputPath": "C:\\Users\\Mathew\\Source\\Repos\\matdross\\Matdross.Gui\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

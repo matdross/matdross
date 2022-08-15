@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b/v7/+d60aTFwKTbh6zUW/BOkNyxX5G7/+0WJ2MTYC9wzOMNHBQVHejflddZVuESPsdzsk/LA0sTz5tRS6rjLQ==",
+  "dgSpecHash": "VOum5OR1fOVtVEwgB9Qj9ro0EqUSNtPad8fesSt6HtrBk9VwhKdGL5fJeFAlg5hQ7cReAA7we8ZBdcc0BhaQqA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mathew\\source\\repos\\Matdross\\Matdross.Gui\\Matdross.Gui.csproj",
+  "projectFilePath": "C:\\Users\\Mathew\\Source\\Repos\\matdross\\Matdross.Gui\\Matdross.Gui.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mathew\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.8\\microsoft.aspnetcore.authorization.6.0.8.nupkg.sha512",
     "C:\\Users\\Mathew\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.8\\microsoft.aspnetcore.components.6.0.8.nupkg.sha512",
