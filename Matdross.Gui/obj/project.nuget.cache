@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VOum5OR1fOVtVEwgB9Qj9ro0EqUSNtPad8fesSt6HtrBk9VwhKdGL5fJeFAlg5hQ7cReAA7we8ZBdcc0BhaQqA==",
+  "dgSpecHash": "bKRjhKcg7FVZB2cLj68m6umhk0FwXmmr4bsmWqVI/damLdabsXN7tlUWfpcIvAod8B5W7o9nH/TpXSUkJoyu+w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mathew\\Source\\Repos\\matdross\\Matdross.Gui\\Matdross.Gui.csproj",
+  "projectFilePath": "C:\\Users\\Mathew\\source\\repos\\Matdross\\Matdross.Gui\\Matdross.Gui.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mathew\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.8\\microsoft.aspnetcore.authorization.6.0.8.nupkg.sha512",
     "C:\\Users\\Mathew\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.8\\microsoft.aspnetcore.components.6.0.8.nupkg.sha512",
@@ -28,6 +28,7 @@
     "C:\\Users\\Mathew\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "C:\\Users\\Mathew\\.nuget\\packages\\microsoft.jsinterop\\6.0.8\\microsoft.jsinterop.6.0.8.nupkg.sha512",
     "C:\\Users\\Mathew\\.nuget\\packages\\microsoft.jsinterop.webassembly\\6.0.8\\microsoft.jsinterop.webassembly.6.0.8.nupkg.sha512",
+    "C:\\Users\\Mathew\\.nuget\\packages\\publishspaforgithubpages.build\\2.0.1\\publishspaforgithubpages.build.2.0.1.nupkg.sha512",
     "C:\\Users\\Mathew\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "C:\\Users\\Mathew\\.nuget\\packages\\system.io.pipelines\\6.0.3\\system.io.pipelines.6.0.3.nupkg.sha512",
     "C:\\Users\\Mathew\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
